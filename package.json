@@ -1,0 +1,25 @@
+{
+  "name": "b3twitterbot",
+  "version": "1.0.0",
+  "description": "Twitter bot to reply stock information",
+  "main": "bot.js",
+  "scripts": {
+    "test": "run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "B3TwitterBot"
+  },
+  "keywords": [
+    "twitter",
+    "bot",
+    "stock",
+    "brazil"
+  ],
+  "author": "Guilherme Zanini Moreira",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.11",
+    "yahoo-finance": "^0.3.6"
+  }
+}
